@@ -1,0 +1,6 @@
+vendor
+cache/*
+logs/*
+htdocs/*
+composer.lock
+test
